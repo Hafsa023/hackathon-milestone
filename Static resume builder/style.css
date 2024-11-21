@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+    margin: 0;
+}
+.Resume{
+    display: flex;
+    background-color: white;
+    border-radius: 10px; 
+} 
+.left-section{
+  height: 700px;
+    width: 250px; 
+    border: 2px black solid ;
+    background-color: #282741;
+    margin-left:20%; 
+    text-align:center;
+}
+.pfp{
+    height: 165px;
+    width: 130px;
+    border-radius: 50%; 
+}
+.right-section{
+    height: 700px;
+    width: 400px;
+    background-color: burlywood;
+    border: 2px black solid;
+    text-align: justify;
+    padding-left: 10px;
+}
+h3{
+    border-radius: 5%;
+    border: 3px black ;
+    height: 28px;
+    width: 300px;
+    margin-left: 7%;
+    font-size: 25px;
+    background-color: beige;
+    box-shadow: 0 0 15px #282741;
+    padding-left: 10px; 
+}
+p{
+    font-size:15px;
+}
+h1{
+    color: #282741;
+}
+button {
+    background-color: black;
+    color: azure;
+    height: 25px;
+    margin-left: 5%;
+     cursor: pointer; 
+}
+.objective{
+    color:white;
+}
+button:hover{
+    background-color: navy;
+}
+.heading{
+    width: 200px;
+    box-shadow:  0 0 15px palevioletred;
+}
